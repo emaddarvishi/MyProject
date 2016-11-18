@@ -1,1 +1,3 @@
 Hi
+
+for git log hi.txt command , changed and commit this file .
